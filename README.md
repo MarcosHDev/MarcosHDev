@@ -1,4 +1,4 @@
-### Hi there, im Marcos Henrique 👋**
+### Hi there, im Marcos Henrique 👋
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcola&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
